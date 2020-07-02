@@ -1,0 +1,18 @@
+#History of HTML
+
+HTML stands for Hypertext Markup Language.
+HTML was created in 1989 with the purpose to allow publishing and exchanging of scientific and technical documents
+It was kinda like writeing a research paper in google docs without the UI (only test)
+
+#The general rules 
+<tagName>content</tagName>
+
+#Intro to Header tags
+<h1> --biggest header
+<h2>,<h3>,<h4>
+<h5> - smallest header tag
+
+#Intro to resources 
+MDM web documentation: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+
