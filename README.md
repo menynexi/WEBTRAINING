@@ -1,2 +1,3 @@
 # WEBTRAINING
-This is simple things I have learned in my personal journey to learn web development
+This repository was made from my intrest of webdesign and lessons taught by the Udemy cource:https://www.udemy.com/course/the-web-developer-bootcamp/ 
+
