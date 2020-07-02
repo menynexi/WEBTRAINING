@@ -15,4 +15,20 @@ It was kinda like writeing a research paper in google docs without the UI (only 
 #Intro to resources 
 MDM web documentation: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
+#git commands
+git add . : adds all files
+git add <filename> : adds a specific file
 
+git commit : opens up a file to make a commit message
+git commit -m "commit message" : adds a commit message
+git commit --ammend : when makeing a commit and neededs chyanges you can ammend both commits 
+
+git rebase -i <name of branch>~<number of commits> : this will combine number of commits into one
+note: when using Git Bash in windows you need to use "i" in order to go into insert mode then use ":x! + ENTER" to exit and save changes 
+
+git pull <branch name you want to pull> <branch to pull to>
+
+git push <branch you want to push to> <branch that you want to push>
+git push -f <branch you want to push to> <branch you want to push> 
+
+git clone <hyperlink to repository> 
