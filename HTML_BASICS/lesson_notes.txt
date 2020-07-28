@@ -8,11 +8,22 @@ It was kinda like writeing a research paper in google docs without the UI (only 
 <tagName>content</tagName>
 
 #Intro to Header tags
-<h1> --biggest header
+<h1> - biggest header
 <h2>,<h3>,<h4>
 <h5> - smallest header tag
 
-#Intro to resources 
+#Intro to list 
+<ul> - unordered list
+<ol> - ordered list
+
+#Intro to div and span
+<div> - a segment of the text or code, you can apply a class to divs 
+<span> - span makes sure all elemts span one line
+
+#intro to Attirubutes
+some attributes are added to help tags
+
+#Intro to resources
 MDM web documentation: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 
 #git commands
